@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a4d7a08.css",
+    "main.js": "/static/js/main.2211b319.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Vazir-Medium.ttf": "/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
+    "static/media/Vazir-Medium.woff": "/static/media/Vazir-Medium.e5c2bbe6a0c77d2cf489.woff",
+    "static/media/Vazir-Medium-FD-WOL.ttf": "/static/media/Vazir-Medium-FD-WOL.1fe71e7ef725ad5bffee.ttf",
+    "static/media/Vazir-Medium.woff2": "/static/media/Vazir-Medium.276befd1faf18a3d9afb.woff2",
+    "static/media/Vazir-Medium-FD-WOL.woff": "/static/media/Vazir-Medium-FD-WOL.4c9c1544ba1cf1af2e21.woff",
+    "static/media/Vazir-Medium-FD-WOL.woff2": "/static/media/Vazir-Medium-FD-WOL.9a6da75d5a41ec2b0c5f.woff2",
+    "index.html": "/index.html",
+    "main.1a4d7a08.css.map": "/static/css/main.1a4d7a08.css.map",
+    "main.2211b319.js.map": "/static/js/main.2211b319.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a4d7a08.css",
+    "static/js/main.2211b319.js"
+  ]
+}
